@@ -1,3 +1,6 @@
+# General introduction to your project
+Project is all about “Employee Management System” which helps employer to manage employee details and track the employee’s and leaves requests. And also helps employees to apply for leave and track their salary payslips.
+
 # EmployeeMS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
